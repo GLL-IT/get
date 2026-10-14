@@ -1,2 +1,2 @@
 # thepub
-Public Repo for 
+Public Repo for scripts to be accessed via PS
